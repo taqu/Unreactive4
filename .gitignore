@@ -1,0 +1,9 @@
+# directories
+.vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+# files
+*.sln
